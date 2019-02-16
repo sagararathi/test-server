@@ -1,0 +1,15 @@
+{
+
+"TYPE": "pay_type",
+
+"DESC": "description",
+
+"COPAY_AMT": "10000",
+
+"DE_AMT": "5000",
+
+"COIN_PCT": "5",
+
+"LT_AMT": "2000"
+
+}
