@@ -1,11 +1,11 @@
 {
-
-"TYPE": "pay_type",
-
-"DESC": "description",
-
-"COPAY_AMT": "10000",
-
-"DE_AMT": "5000"
-
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
